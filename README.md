@@ -14,6 +14,7 @@
 
 Usuario: admin    
 Pass: admin
+
 Pass del Root del Panel: admin
 
 2. Por seguridad debe cambiarse la contraseÃ±a del usuario admin en el primer inicio asi como la del SuperUser.(lol)
