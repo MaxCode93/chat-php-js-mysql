@@ -1,0 +1,23 @@
+# LiveMessenger v18
+#.---------------------------------------------------------------------------.
+#|      Archivo: .htaccess                                                   |
+#|   Contacto: carlosmaxwell93@gmail.com                                     |
+#|                                                                           |
+#| ------------------------------------------------------------------------- |
+#|    Author: Carlos Amaguer Sosa                                            |
+#| Copyright (c) 2017, By Maxwell                                            |
+#|                                                                           |
+#'---------------------------------------------------------------------------'
+
+
+
+#Prevenir listados de directorio que no tengan index.php o index.html
+Options All -Indexes
+
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/plain text/xml application/xml application/xhtml+xml text/javascript text/css application/x-javascript application/javascript application/json text/x-component
+</IfModule>
+
+<FilesMatch "\.(htm|html|css|js)$">
+AddDefaultCharset UTF-8
+</FilesMatch>

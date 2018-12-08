@@ -1,0 +1,22 @@
+20/09/18  12:41-> Maxwell -> establece [Admin-SalaPublica] a Maxwell  
+24/09/18  08:05-> admin -> establece [1 Estrellas y Media] a LIKI  
+24/09/18  08:07-> admin -> establece [1 Estrellas y Media] a yaimapp  
+24/09/18  08:07-> admin -> establece [1 Estrellas y Media] a sakura  
+24/09/18  08:10-> admin -> establece [Admin-SalaPublica] a Death  
+24/09/18  08:10-> admin -> establece [Admin-SalaPublica] a Death  
+24/09/18  08:10-> admin -> establece [Admin-SalaPublica] a Death  
+24/09/18  08:11-> admin -> establece [2 Estrellas] a LIKI  
+24/09/18  08:12-> admin -> establece [2 Estrellas] a sakura  
+24/09/18  08:12-> admin -> establece [2 Estrellas] a yaima  
+24/09/18  08:20-> admin -> establece [Admin-SalaPublica] a Death  
+24/09/18  08:20-> admin -> establece [Admin-SalaPublica] a Death  
+24/09/18  08:20-> admin -> establece [Admin-SalaPublica] a Death  
+24/09/18  08:23-> admin -> establece [2 Estrellas] a sarada  
+24/09/18  08:24-> admin -> establece [2 Estrellas] a ther  
+24/09/18  08:27-> admin -> establece [2 Estrellas] a Mirach  
+24/09/18  09:53-> admin -> establece [1 Estrellas y Media] a Kakashi  
+24/09/18  09:53-> admin -> establece [1 Estrellas y Media] a konan  
+24/09/18  09:59-> Kakashi -> establece [Admin-SalaPublica] a Mirach  
+27/09/18  07:41-> admin -> establece [Admin-SalaPublica] a Death  
+27/09/18  07:42-> admin -> establece [Admin-SalaPublica] a Death  
+27/09/18  07:42-> admin -> establece [Admin-SalaPublica] a Death  
