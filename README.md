@@ -17,7 +17,7 @@ Pass: admin
 
 Pass del Root del Panel: admin
 
-2. Por seguridad debe cambiarse la contraseÃ±a del usuario admin en el primer inicio asi como la del SuperUser.(lol)
+2. Por seguridad debe cambiarse la contraseña del usuario admin en el primer inicio asi como la del SuperUser.(lol)
 
 Sugerencias, errores e ideas:
 carlosmaxwell93@gmail.com o maxgit93@gmail.com
